@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732146073611",
+    "project_id": "myfullterapp",
+    "storage_bucket": "myfullterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732146073611:android:54bcf080310cb8d766070e",
+        "android_client_info": {
+          "package_name": "com.appiciel.my_fullter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732146073611-amrkk04dt58oan2e321aiqg1os0igerm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWuXUdcIWeoJzMqxAWKDoxJGtGXmKur90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732146073611-amrkk04dt58oan2e321aiqg1os0igerm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
